@@ -12,7 +12,7 @@ At first I felt like I was stumbling about like a blind person. The first articl
 
 I could maybe have found a way to include the token in a keyring and have it looked up when I wanted to login, but by then I was tired of it all and did other stuff for a week or so. I almost felt like giving up
 
-## But breaking up is harder
+# But breaking up is harder
 I kept reading and trying to figure this stuff out, but it kept eluding me. Maybe I wasn't cut out for this stuff. Maybe I'm to old and tired to learn new shit.
 
 But even so, I am a geek at heart and every now and then I did a little search and did a little reading. And then, at last, I stumbled across a suggestion for authenticating with SSH. That sounded much more like what I wanted. And I really didn't want to quit quite yet.
