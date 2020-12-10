@@ -13,11 +13,8 @@ whole repo and just creating a new one with jekyll.
 
 Now I'm learning how all the bits and pieces work and documenting it all as I go.
 
-## Details
-
-Powered by :
+### Powered by :
 * [Jekyll](https://jekyllrb.com/)
 * [GitHub Pages](https://pages.github.com/)
-
-Theme: [Minima](https://github.com/jekyll/minima)
+* [Minima](https://github.com/jekyll/minima)
 
