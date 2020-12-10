@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Do one thing or do no things at all
-date:   2020-11-22 18:06 +0100
+date:   2020-12-06 18:06 +0100
 categories: fumbling update 
 ---
 It's been slow going for some time. I keep falling down some wiki rabbithole or being distracted by some maybe cool thing to try, and ending up getting nothing done. So I finally managed to focus on just one thing for long enough that I managed to do at least one thing...
+
+<!--more-->
+
 # Logging in is hard to do
 It took me about two pushes to get sick of inputing my GitHub password every time I made a change to this page. My password on GitHub is long and  difficult to remember. Not designed for muscle memory. So I looked in to caching, keyrings, and ways to be lazy while still sort of secure. 
 

@@ -3,16 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm just figuring stuff out. It's working out OK, I guess.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is currently very simple and sort of boring. Mostly exactly like the tutorials told me to do things.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+First I followed the steps over at [guides.github.com](https://guides.github.com/features/pages/) and got a simple blog up and running. I wanted to be able to make changes
+and test locally, so I followed [this guide for setting up Jekyll](https://jekyllrb.com/docs/) and [this guide to setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll). I got confused at some point, and ended up cleaning out the
+whole repo and just creating a new one with jekyll.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Now I'm learning how all the bits and pieces work and documenting it all as I go.
 
+## Details
 
-[jekyll-organization]: https://github.com/jekyll
+Powered by :
+* [Jekyll](https://jekyllrb.com/)
+* [GitHub Pages](https://pages.github.com/)
+
+Theme: [Minima](https://github.com/jekyll/minima)
+

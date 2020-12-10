@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Getting somewhere?"
+title:  "Testing testing one two"
 date:   2020-11-22 18:06 +0100
 categories: fumbling update 
 ---
-# Testing testing one two
 Let's see if we can get this afloat.
+
+<!--more-->
 
 ## In other news
 Got the thinkpad's fingerprint reader working easy as pie.
