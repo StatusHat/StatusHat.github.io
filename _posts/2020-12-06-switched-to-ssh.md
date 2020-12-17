@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Do one thing or do no things at all
 date:   2020-12-06 18:06 +0100
 categories: fumbling update 

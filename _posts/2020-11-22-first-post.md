@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Testing testing one two"
 date:   2020-11-22 18:06 +0100
 categories: fumbling update 
