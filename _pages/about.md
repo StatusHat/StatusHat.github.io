@@ -15,5 +15,5 @@ Now I'm learning how all the bits and pieces work and documenting it all as I go
 ### Powered by :
 * [Jekyll](https://jekyllrb.com/)
 * [GitHub Pages](https://pages.github.com/)
-* [Minima](https://github.com/jekyll/minima)
+* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
 
