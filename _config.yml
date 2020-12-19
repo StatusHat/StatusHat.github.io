@@ -21,17 +21,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: notapliccable
 github_username:  StatusHat
+search: true
 
 # Build settings
 repository: StatusHat/statushat.github.io
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-include: ["_pages"]
+
 show_excerpts: true
 excerpt_separator: "<!--more-->"
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+
+include: 
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,6 +46,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
 defaults:
   # _posts
   - scope:
@@ -52,15 +57,15 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: false
       related: false
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
