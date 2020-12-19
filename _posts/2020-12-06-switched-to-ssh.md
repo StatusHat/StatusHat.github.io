@@ -1,7 +1,8 @@
 ---
 title: Do one thing or do no things at all
 date:   2020-12-06 18:06 +0100
-categories: fumbling update 
+categories: blog
+tags: authentication ssh dns cloudflare
 ---
 It's been slow going for some time. I keep falling down some wiki rabbithole or being distracted by some maybe cool thing to try, and ending up getting nothing done. So I finally managed to focus on just one thing for long enough that I managed to do at least one thing...
 
