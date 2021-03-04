@@ -12,7 +12,7 @@ I was in such a hurry to try out another theme that I only skimmed the [quicksta
 
 Needless to say, this post was not posted right before christmas either. As I mention last time, my laptop acted up. And this post was on it. And I just about gave up on all of this. But hey, the pandemic tightened its grip over the holidays, and just kept squeezing. Figuring it's this or banging my head through the walls, I picked up sort of where I left off. 
 
-Next post will be about fixing stuff or braking stuff and maybe even be coherent and a bit detailed in stead of just a rambling rant.
+Next post will be about fixing stuff or breaking stuff and maybe even be coherent and a bit detailed in stead of just a rambling rant.
 
 Merry christmas to you, whenever you are!
 
