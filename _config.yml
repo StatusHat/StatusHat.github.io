@@ -27,10 +27,12 @@ search: true
 # Build settings
 repository: StatusHat/statushat.github.io
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 show_excerpts: true
 excerpt_separator: "<!--more-->"
+
+paginate: 5
 
 include: 
   - _pages
@@ -59,6 +61,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      show_date: true
       read_time: true
       comments: false
       share: false
