@@ -1,13 +1,13 @@
 ---
 title: Another day another fumble
-date: 2021-11-09 20:52
+date: 2021-11-09 20:52 +01:00
 category: blog
 tags: git rtfm jekyll theme
 ---
 
 Last time I had a short TODO-list at the end of my post. How many have I managed to tick off?
 
-<!--More-->    
+<!--more-->    
 
  1.   Add pages for posts by year, category and tags
 
