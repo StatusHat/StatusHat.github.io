@@ -1,4 +1,4 @@
-baseURL: "https://StatusHat.github.io"
+baseURL: "https://statushat.github.io"
 languageCode: "en-us"
 title: "Fumbles and stumbles with StatusHat"
 theme: "hugo-fumbly"
