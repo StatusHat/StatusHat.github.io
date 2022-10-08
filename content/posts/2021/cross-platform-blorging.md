@@ -1,8 +1,9 @@
 ---
-title:  "Cross platform blorging"
-date:   2021-03-02 20:13 +0100
-categories: blog 
+title: "Cross platform blorging"
+date: 2021-03-02 # 20:13 +0100
+categories: blog
 ---
+
 So I set up VS Code and Git on the old Windows workstation. It boots faster than I can adjust my chair, so my hope is this will work great as a blorgomat for typing out and publishing in a flash.
 
 <!--more-->
