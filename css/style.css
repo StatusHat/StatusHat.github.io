@@ -9,3 +9,15 @@
   display: flex;
   justify-content: space-between;
 }
+
+.blog__navigateButtons__newer:only-child {
+  margin-left: auto;
+}
+
+h3.title {
+  margin-bottom: 0;
+}
+
+.blog__info {
+  margin-top: 0;
+}
