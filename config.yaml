@@ -7,3 +7,5 @@ params:
   description: "I am learning to do new stuff. This is the place where I document my fumbles, stumbles and occasional wins."
   footer: "&copy; [StatusHat](https://github.com/StatusHat) 2020 -- {Year}"
   dateFormat: "2006-01-02"
+
+paginate: 3
