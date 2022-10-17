@@ -1,7 +1,6 @@
 ---
 title: "Switcharoo"
 date: 2022-10-17T18:51:39+02:00
-draft: true
 categories: blog
 tags:
   - hugo
