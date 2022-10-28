@@ -1,5 +1,39 @@
 @import "normalize/normalize.css";
 
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+a {
+  font-family: sans-serif;
+}
+
+ul {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+ol {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+pre {
+  background-color: #e3e6e8;
+  padding: 0.75rem;
+  margin: 1rem;
+  line-height: 1.5;
+}
+
+code {
+  background-color: #e3e6e8;
+}
+
 #page-container {
   position: relative;
   min-height: 100vh;
@@ -32,6 +66,10 @@
   padding-bottom: 2.5rem;
 }
 
+h1.blog__title {
+  margin-bottom: 0;
+}
+
 h3.title {
   margin-bottom: 0;
 }
@@ -43,6 +81,10 @@ h3.title {
   color: grey;
 }
 
+.summary {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
 /* For moving to older or newer content. Lives at the bottom of current content. */
 .blog__navigateButtons {
   padding-top: 0.5rem;
