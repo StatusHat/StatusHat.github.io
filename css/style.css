@@ -1,69 +1,18 @@
 @import "normalize/normalize.css";
 
-h1 {
-  font-family: sans-serif;
-}
-
-p {
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
-a {
-  font-family: sans-serif;
-}
-
-ul {
-  font-family: sans-serif;
-  line-height: 1.5;
-}
-
-ol {
+body {
   font-family: sans-serif;
   line-height: 1.5;
 }
 
 pre {
   background-color: #e3e6e8;
-  padding: 0.75rem;
+  padding: 0.5rem;
   margin: 1rem;
-  line-height: 1.5;
 }
 
 code {
   background-color: #e3e6e8;
-}
-
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
-.navbar {
-  background: rgb(3, 251, 243);
-  display: flex;
-  justify-content: space-between;
-  padding-top: 0.25rem;
-  padding-bottom: 0.5rem;
-  padding-right: 0.25rem;
-  padding-left: 0.25rem;
-}
-
-.navbar__left a {
-  padding-inline: 0.25rem;
-}
-.navbar__right a {
-  padding-inline: 0.25rem;
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem; /* Footer height */
-}
-#content {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 900px;
-  padding-bottom: 2.5rem;
 }
 
 h1.blog__title {
@@ -85,6 +34,42 @@ h3.title {
   font-family: sans-serif;
   line-height: 1.5;
 }
+
+/* Page layout from here and down */
+
+/* This makes page-container always use the full viewport height */
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Top navigation */
+.navbar {
+  background: rgb(3, 251, 243);
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+.navbar__left a {
+  padding-inline: 0.25rem;
+}
+.navbar__right a {
+  padding-inline: 0.25rem;
+}
+
+/* Make space for footer */
+#content-wrap {
+  padding-bottom: 2.5rem; /* Footer height */
+}
+
+#content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+  padding-bottom: 2.5rem;
+}
+
 /* For moving to older or newer content. Lives at the bottom of current content. */
 .blog__navigateButtons {
   padding-top: 0.5rem;
@@ -102,10 +87,10 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 2rem; /* Footer height */
+  height: 2.5rem; /* Footer height */
 }
 
 #footer-content {
-  padding: 0.25rem;
+  padding: 0.5rem;
   text-align: center;
 }
