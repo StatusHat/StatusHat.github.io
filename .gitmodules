@@ -1,3 +1,3 @@
 [submodule "themes/hugo-fumbly"]
 	path = themes/hugo-fumbly
-	url = /hugo-fumbly.git
+	url = ../hugo-fumbly.git
